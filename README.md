@@ -13,4 +13,4 @@ About: 2 Hours
 
 ---
 
-### [👉 Pay with PayPal](Your-PayPal.me-link-or-payment-request-link)
+### [👉 Pay with PayPal](https://www.paypal.com/ncp/payment/K2AE6H2WGEEPA)
