@@ -13,4 +13,4 @@
 
 ---
 
-### [👉 使用 PayPal 付款](你的PayPal.me链接或请求付款链接)
+### [👉 使用 PayPal 付款](https://www.paypal.com/ncp/payment/K2AE6H2WGEEPA)
