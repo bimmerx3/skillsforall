@@ -1,4 +1,5 @@
-# Biller 技能
+**中文** | [English](README.md) 
+# Bimmer 技能
 
 ## 如何：安装 ID7 应用商店
 **价格：50 USD**
