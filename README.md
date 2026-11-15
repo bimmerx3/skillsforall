@@ -1,3 +1,4 @@
+**English** | [中文](README_zh.md) 
 # Bimmer skills
 
 ## Howto: Install ID7 App Store
