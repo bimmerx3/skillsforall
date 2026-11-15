@@ -8,6 +8,8 @@ Help Bimmer know how to
 - install App Store
 - install my app
 
+About: 2 Hours
+
 ---
 
 ### [👉 Pay with PayPal](Your-PayPal.me-link-or-payment-request-link)
