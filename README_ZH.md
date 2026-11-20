@@ -15,4 +15,4 @@
 
 ---
 
-### [👉 使用 PayPal 付款](https://www.paypal.com/ncp/payment/K2AE6H2WGEEPA)
+### [👉 使用 PayPal 付款](https://www.paypal.com/ncp/payment/KBF39LC29DSN2)
