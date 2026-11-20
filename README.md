@@ -3,14 +3,14 @@
 ## Installing dashcams
 **Price: 30 USD**
 
-Target audience: Car owners, technicians, and apprentices.
+Target audience: car owners, technicians, and apprentices.
 
-content:
+Content:
 
-- The vehicle information involved is limited to BMW G chassis.
-- Dashcam installation
-- Troubleshooting
+- the vehicle information involved is limited to BMW G chassis.
+- dashcam installation
+- troubleshooting
 
 Estimated time: 2 hours
 
-### [👉  PayPal](https://www.paypal.com/ncp/payment/KBF39LC29DSN2)
+### [👉  pay with PayPal](https://www.paypal.com/ncp/payment/KBF39LC29DSN2)
