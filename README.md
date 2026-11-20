@@ -1,16 +1,16 @@
 **English** | [中文](README_ZH.md) 
-# Bimmer skills
+# Automotive electronic parts installation service
+## Installing dashcams
+**Price: 30 USD**
 
-## Howto: Install ID7 App Store
-**Price：50 USD**
+Target audience: Car owners, technicians, and apprentices.
 
-Help Bimmer know how to 
-- root ID7 head unit
-- install App Store
-- install my app
+content:
 
-About: 2 Hours
+- The vehicle information involved is limited to BMW G chassis.
+- Dashcam installation
+- Troubleshooting
 
----
+Estimated time: 2 hours
 
-### [👉 Pay with PayPal](https://www.paypal.com/ncp/payment/K2AE6H2WGEEPA)
+### [👉  PayPal](https://www.paypal.com/ncp/payment/KBF39LC29DSN2)
